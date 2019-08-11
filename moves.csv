@@ -1,0 +1,152 @@
+name,move1,move2
+Bulbasaur,Tackle,Vine Whip
+Ivysaur,Tackle,Razor Leaf
+Venusaur,Take Down,SolarBeam
+Charmander,Scratch,Ember
+Charmeleon,Scratch,Fire Spin
+Charizard,Slash,Flamethrower
+Squirtle,Tackle,Bubble
+Wartortle,Headbutt,BubbleBeam
+Blastoise,Skull Bash,Hydro Pump
+Caterpie,Tackle,
+Metapod,Tackle,
+Butterfree,Gust,Psybeam
+Weedle,Poison Sting,
+Kakuna,Poison Sting,
+Beedrill,Fury Attack,Twineedle
+Pidgey,Tackle,Gust
+Pidgeotto,Quick Attack,Wing Attack
+Pidgeot,Razor Wind,Wing Attack
+Rattata,Tackle,Bite
+Raticate,Hyper Fang,Crunch
+Spearow,Fury Attack,Peck
+Fearow,Quick Attack,Drill Peck
+Ekans,Wrap,Acid
+Arbok,Wrap,Crunch
+Pikachu,Quick Attack,ThunderShock
+Raichu,Quick Attack,Thunder
+Sandshrew,Scratch,Dig
+Sandslash,Slash,Earthquake
+Nidoranâ™€,Scratch,Poison Sting
+Nidorina,Double Kick,Bite
+Nidoqueen,Superpower,Crunch
+Nidoranâ™‚,Peck,Poison Sting
+Nidorino,Double Kick,Horn Attack
+Nidoking,Thrash,Counter
+Clefairy,Pound,Body Slam
+Clefable,Pound,Body Slam
+Vulpix,Tackle,Ember
+Ninetales,Quick Attack,Flamethrower
+Jigglypuff,Pound,Body Slam
+Wigglytuff,Pound,Double-Edge
+Zubat,Wing Attack,Leech Life
+Golbat,Wing Attack,Bite
+Oddish,Absorb,Acid
+Gloom,Acid,Mega Drain
+Vileplume,Acid,SolarBeam
+Paras,Scratch,Leech Life
+Parasect,Slash,Absorb
+Venonat,Tackle,Confusion
+Venomoth,Gust,Psychic
+Diglett,Scratch,Dig
+Dugtrio,Slash,Earthquake
+Meowth,Fake Out,Bite
+Persian,Pay Day,Slash
+Psyduck,Scratch,Water Gun
+Golduck,Psybeam,Surf
+Mankey,Scratch,Karate Chop
+Primeape,Thrash,Seismic Toss
+Growlithe,Bite,Ember
+Arcanine,Double-Edge,Ember
+Poliwag,Pound,BubbleBeam
+Poliwhirl,Body Slam,Hydro Pump
+Poliwrath,Submission,Hydro Pump
+Abra,Headbutt,
+Kadabra,Headbutt,Psybeam
+Alakazam,Facade,Psychic
+Machop,Strength,Brick Break
+Machoke,Karate Chop,Submission
+Machamp,Submission,Superpower
+Bellsprout,Wrap,Vine Whip
+Weepinbell,Wrap,Razor Leaf
+Victreebel,Acid,Razor Leaf
+Tentacool,Poison Sting,BubbleBeam
+Tentacruel,Acid,Hydro Pump
+Geodude,Tackle,Rock Throw
+Graveler,Take Down,Rock Slide
+Golem,Explosion,Earthquake
+Ponyta,Quick Attack,Fire Spin
+Rapidash,Stomp,Fire Blast
+Slowpoke,Tackle,Confusion
+Slowbro,Surf,Psychic
+Magnemite,Tackle,Thunderbolt
+Magneton,Tri Attack,Thunder
+Farfetch'd,Quick Attack,Sky Attack
+Doduo,Fury Attack,Peck
+Dodrio,Quick Attack,Drill Peck
+Seel,Headbutt,Aurora Beam
+Dewgong,Take Down,Ice Beam
+Grimer,Pound,Sludge
+Muk,Pound,Sludge Bomb
+Shellder,Tackle,Aurora Beam
+Cloyster,Twineedle,Ice Beam
+Gastly,Headbutt,Night Shade
+Haunter,Headbutt,Shadow Ball
+Gengar,Smog,Shadow Ball
+Onix,Tackle,Earthquake
+Drowzee,Pound,Psybeam
+Hypno,Headbutt,Psychic
+Krabby,ViceGrip,BubbleBeam
+Kingler,Slam,Crabhammer
+Voltorb,Swift,Thunderbolt
+Electrode,Explosion,Thunderbolt
+Exeggcute,Barrage,Confusion
+Exeggutor,Egg Bomb,Psybeam
+Cubone,Rage,Bone Club
+Marowak,Double-Edge,Bonemerang
+Hitmonlee,Facade,Jump Kick
+Hitmonchan,Mega Punch,ThunderPunch
+Lickitung,Lick,Slam
+Koffing,Selfdestruct,Smog
+Weezing,Explosion,Sludge Bomb
+Rhyhorn,Take Down,Rock Throw
+Rhydon,Horn Drill,Rock Slide
+Chansey,Pound,Double-Edge
+Tangela,Slam,Mega Drain
+Kangaskhan,Dizzy Punch,Outrage
+Horsea,Headbutt,Waterfall
+Seadra,Hidden Power,Hydro Pump
+Goldeen,Quick Attack,Waterfall
+Seaking,Horn Attack,Megahorn
+Staryu,Swift,BubbleBeam
+Starmie,Psywave,Hydro Pump
+Mr Mime,Pound,Psychic
+Scyther,Razor Wind,Wing Attack
+Jynx,Confusion,Blizzard
+Electabuzz,Low Kick,Thunder
+Magmar,Smog,Fire Punch
+Pinsir,ViceGrip,Superpower
+Tauros,Horn Attack,Outrage
+Magikarp,Tackle,
+Gyarados,Hyper Beam,Dragon Rage
+Lapras,Body Slam,Blizzard
+Ditto,Transform,Transform
+Eevee,Take Down,Bite
+Vaporeon,Aurora Beam,Hydro Pump
+Jolteon,Pin Missile,Thunder
+Flareon,Bite,Fire Spin
+Porygon,Tri Attack,Psybeam
+Omanyte,Water Gun,Rock Slide
+Omastar,Spike Cannon,Hydro Pump
+Kabuto,Absorb,Rock Throw
+Kabutops,Slash,Rock Slide
+Aerodactyl,Take Down,Fly
+Snorlax,Headbutt,Superpower
+Articuno,Blizzard,Sky Attack
+Zapdos,Thunder,Sky Attack
+Moltres,Flamethrower,Sky Attack
+Dratini,Slam,Outrage
+Dragonair,Slam,Outrage
+Dragonite,Outrage,Hyper Beam
+Mewtwo,Swift,Psychic
+Mew,Mega Punch,Psychic

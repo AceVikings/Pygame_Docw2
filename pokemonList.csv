@@ -1,0 +1,387 @@
+name,number,type 1,type 2,total,hp,attack,defense,specialAttack,specialDefence,speed,generation,legendary,pokemonName,imageURL,move1,move2
+Bulbasaur,1,Grass,Poison,318,45,49,49,65,65,45,1,FALSE,Bulbasaur,https://img.pokemondb.net/sprites/ruby-sapphire/normal/bulbasaur.png,Tackle,Vine Whip
+Ivysaur,2,Grass,Poison,405,60,62,63,80,80,60,1,FALSE,Ivysaur,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ivysaur.png,Tackle,Razor Leaf
+Venusaur,3,Grass,Poison,525,80,82,83,100,100,80,1,FALSE,Venusaur,https://img.pokemondb.net/sprites/ruby-sapphire/normal/venusaur.png,Take Down,SolarBeam
+Charmander,4,Fire,,309,39,52,43,60,50,65,1,FALSE,Charmander,https://img.pokemondb.net/sprites/ruby-sapphire/normal/charmander.png,Scratch,Ember
+Charmeleon,5,Fire,,405,58,64,58,80,65,80,1,FALSE,Charmeleon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/charmeleon.png,Scratch,Fire Spin
+Charizard,6,Fire,Flying,534,78,84,78,109,85,100,1,FALSE,Charizard,https://img.pokemondb.net/sprites/ruby-sapphire/normal/charizard.png,Slash,Flamethrower
+Squirtle,7,Water,,314,44,48,65,50,64,43,1,FALSE,Squirtle,https://img.pokemondb.net/sprites/ruby-sapphire/normal/squirtle.png,Tackle,Bubble
+Wartortle,8,Water,,405,59,63,80,65,80,58,1,FALSE,Wartortle,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wartortle.png,Headbutt,BubbleBeam
+Blastoise,9,Water,,530,79,83,100,85,105,78,1,FALSE,Blastoise,https://img.pokemondb.net/sprites/ruby-sapphire/normal/blastoise.png,Skull Bash,Hydro Pump
+Caterpie,10,Bug,,195,45,30,35,20,20,45,1,FALSE,Caterpie,https://img.pokemondb.net/sprites/ruby-sapphire/normal/caterpie.png,Tackle,
+Metapod,11,Bug,,205,50,20,55,25,25,30,1,FALSE,Metapod,https://img.pokemondb.net/sprites/ruby-sapphire/normal/metapod.png,Tackle,
+Butterfree,12,Bug,Flying,395,60,45,50,90,80,70,1,FALSE,Butterfree,https://img.pokemondb.net/sprites/ruby-sapphire/normal/butterfree.png,Gust,Psybeam
+Weedle,13,Bug,Poison,195,40,35,30,20,20,50,1,FALSE,Weedle,https://img.pokemondb.net/sprites/ruby-sapphire/normal/weedle.png,Poison Sting,
+Kakuna,14,Bug,Poison,205,45,25,50,25,25,35,1,FALSE,Kakuna,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kakuna.png,Poison Sting,
+Beedrill,15,Bug,Poison,395,65,90,40,45,80,75,1,FALSE,Beedrill,https://img.pokemondb.net/sprites/ruby-sapphire/normal/beedrill.png,Fury Attack,Twineedle
+Pidgey,16,Normal,Flying,251,40,45,40,35,35,56,1,FALSE,Pidgey,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pidgey.png,Tackle,Gust
+Pidgeotto,17,Normal,Flying,349,63,60,55,50,50,71,1,FALSE,Pidgeotto,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pidgeotto.png,Quick Attack,Wing Attack
+Pidgeot,18,Normal,Flying,479,83,80,75,70,70,101,1,FALSE,Pidgeot,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pidgeot.png,Razor Wind,Wing Attack
+Rattata,19,Normal,,253,30,56,35,25,35,72,1,FALSE,Rattata,https://img.pokemondb.net/sprites/ruby-sapphire/normal/rattata.png,Tackle,Bite
+Raticate,20,Normal,,413,55,81,60,50,70,97,1,FALSE,Raticate,https://img.pokemondb.net/sprites/ruby-sapphire/normal/raticate.png,Hyper Fang,Crunch
+Spearow,21,Normal,Flying,262,40,60,30,31,31,70,1,FALSE,Spearow,https://img.pokemondb.net/sprites/ruby-sapphire/normal/spearow.png,Fury Attack,Peck
+Fearow,22,Normal,Flying,442,65,90,65,61,61,100,1,FALSE,Fearow,https://img.pokemondb.net/sprites/ruby-sapphire/normal/fearow.png,Quick Attack,Drill Peck
+Ekans,23,Poison,,288,35,60,44,40,54,55,1,FALSE,Ekans,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ekans.png,Wrap,Acid
+Arbok,24,Poison,,438,60,85,69,65,79,80,1,FALSE,Arbok,https://img.pokemondb.net/sprites/ruby-sapphire/normal/arbok.png,Wrap,Crunch
+Pikachu,25,Electric,,320,35,55,40,50,50,90,1,FALSE,Pikachu,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pikachu.png,Quick Attack,ThunderShock
+Raichu,26,Electric,,485,60,90,55,90,80,110,1,FALSE,Raichu,https://img.pokemondb.net/sprites/ruby-sapphire/normal/raichu.png,Quick Attack,Thunder
+Sandshrew,27,Ground,,300,50,75,85,20,30,40,1,FALSE,Sandshrew,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sandshrew.png,Scratch,Dig
+Sandslash,28,Ground,,450,75,100,110,45,55,65,1,FALSE,Sandslash,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sandslash.png,Slash,Earthquake
+Nidoran♀,29,Poison,,275,55,47,52,40,40,41,1,FALSE,Nidoran♀,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoran♀.png,Scratch,Poison Sting
+Nidorina,30,Poison,,365,70,62,67,55,55,56,1,FALSE,Nidorina,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidorina.png,Double Kick,Bite
+Nidoqueen,31,Poison,Ground,505,90,92,87,75,85,76,1,FALSE,Nidoqueen,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoqueen.png,Superpower,Crunch
+Nidoran♂,32,Poison,,273,46,57,40,40,40,50,1,FALSE,Nidoran♂,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoran♂.png,Peck,Poison Sting
+Nidorino,33,Poison,,365,61,72,57,55,55,65,1,FALSE,Nidorino,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidorino.png,Double Kick,Horn Attack
+Nidoking,34,Poison,Ground,505,81,102,77,85,75,85,1,FALSE,Nidoking,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoking.png,Thrash,Counter
+Clefairy,35,Fairy,,323,70,45,48,60,65,35,1,FALSE,Clefairy,https://img.pokemondb.net/sprites/ruby-sapphire/normal/clefairy.png,Pound,Body Slam
+Clefable,36,Fairy,,483,95,70,73,95,90,60,1,FALSE,Clefable,https://img.pokemondb.net/sprites/ruby-sapphire/normal/clefable.png,Pound,Body Slam
+Vulpix,37,Fire,,299,38,41,40,50,65,65,1,FALSE,Vulpix,https://img.pokemondb.net/sprites/ruby-sapphire/normal/vulpix.png,Tackle,Ember
+Ninetales,38,Fire,,505,73,76,75,81,100,100,1,FALSE,Ninetales,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ninetales.png,Quick Attack,Flamethrower
+Jigglypuff,39,Normal,Fairy,270,115,45,20,45,25,20,1,FALSE,Jigglypuff,https://img.pokemondb.net/sprites/ruby-sapphire/normal/jigglypuff.png,Pound,Body Slam
+Wigglytuff,40,Normal,Fairy,435,140,70,45,85,50,45,1,FALSE,Wigglytuff,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wigglytuff.png,Pound,Double-Edge
+Zubat,41,Poison,Flying,245,40,45,35,30,40,55,1,FALSE,Zubat,https://img.pokemondb.net/sprites/ruby-sapphire/normal/zubat.png,Wing Attack,Leech Life
+Golbat,42,Poison,Flying,455,75,80,70,65,75,90,1,FALSE,Golbat,https://img.pokemondb.net/sprites/ruby-sapphire/normal/golbat.png,Wing Attack,Bite
+Oddish,43,Grass,Poison,320,45,50,55,75,65,30,1,FALSE,Oddish,https://img.pokemondb.net/sprites/ruby-sapphire/normal/oddish.png,Absorb,Acid
+Gloom,44,Grass,Poison,395,60,65,70,85,75,40,1,FALSE,Gloom,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gloom.png,Acid,Mega Drain
+Vileplume,45,Grass,Poison,490,75,80,85,110,90,50,1,FALSE,Vileplume,https://img.pokemondb.net/sprites/ruby-sapphire/normal/vileplume.png,Acid,SolarBeam
+Paras,46,Bug,Grass,285,35,70,55,45,55,25,1,FALSE,Paras,https://img.pokemondb.net/sprites/ruby-sapphire/normal/paras.png,Scratch,Leech Life
+Parasect,47,Bug,Grass,405,60,95,80,60,80,30,1,FALSE,Parasect,https://img.pokemondb.net/sprites/ruby-sapphire/normal/parasect.png,Slash,Absorb
+Venonat,48,Bug,Poison,305,60,55,50,40,55,45,1,FALSE,Venonat,https://img.pokemondb.net/sprites/ruby-sapphire/normal/venonat.png,Tackle,Confusion
+Venomoth,49,Bug,Poison,450,70,65,60,90,75,90,1,FALSE,Venomoth,https://img.pokemondb.net/sprites/ruby-sapphire/normal/venomoth.png,Gust,Psychic
+Diglett,50,Ground,,265,10,55,25,35,45,95,1,FALSE,Diglett,https://img.pokemondb.net/sprites/ruby-sapphire/normal/diglett.png,Scratch,Dig
+Dugtrio,51,Ground,,405,35,80,50,50,70,120,1,FALSE,Dugtrio,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dugtrio.png,Slash,Earthquake
+Meowth,52,Normal,,290,40,45,35,40,40,90,1,FALSE,Meowth,https://img.pokemondb.net/sprites/ruby-sapphire/normal/meowth.png,Fake Out,Bite
+Persian,53,Normal,,440,65,70,60,65,65,115,1,FALSE,Persian,https://img.pokemondb.net/sprites/ruby-sapphire/normal/persian.png,Pay Day,Slash
+Psyduck,54,Water,,320,50,52,48,65,50,55,1,FALSE,Psyduck,https://img.pokemondb.net/sprites/ruby-sapphire/normal/psyduck.png,Scratch,Water Gun
+Golduck,55,Water,,500,80,82,78,95,80,85,1,FALSE,Golduck,https://img.pokemondb.net/sprites/ruby-sapphire/normal/golduck.png,Psybeam,Surf
+Mankey,56,Fighting,,305,40,80,35,35,45,70,1,FALSE,Mankey,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mankey.png,Scratch,Karate Chop
+Primeape,57,Fighting,,455,65,105,60,60,70,95,1,FALSE,Primeape,https://img.pokemondb.net/sprites/ruby-sapphire/normal/primeape.png,Thrash,Seismic Toss
+Growlithe,58,Fire,,350,55,70,45,70,50,60,1,FALSE,Growlithe,https://img.pokemondb.net/sprites/ruby-sapphire/normal/growlithe.png,Bite,Ember
+Arcanine,59,Fire,,555,90,110,80,100,80,95,1,FALSE,Arcanine,https://img.pokemondb.net/sprites/ruby-sapphire/normal/arcanine.png,Double-Edge,Ember
+Poliwag,60,Water,,300,40,50,40,40,40,90,1,FALSE,Poliwag,https://img.pokemondb.net/sprites/ruby-sapphire/normal/poliwag.png,Pound,BubbleBeam
+Poliwhirl,61,Water,,385,65,65,65,50,50,90,1,FALSE,Poliwhirl,https://img.pokemondb.net/sprites/ruby-sapphire/normal/poliwhirl.png,Body Slam,Hydro Pump
+Poliwrath,62,Water,Fighting,510,90,95,95,70,90,70,1,FALSE,Poliwrath,https://img.pokemondb.net/sprites/ruby-sapphire/normal/poliwrath.png,Submission,Hydro Pump
+Abra,63,Psychic,,310,25,20,15,105,55,90,1,FALSE,Abra,https://img.pokemondb.net/sprites/ruby-sapphire/normal/abra.png,Headbutt,
+Kadabra,64,Psychic,,400,40,35,30,120,70,105,1,FALSE,Kadabra,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kadabra.png,Headbutt,Psybeam
+Alakazam,65,Psychic,,500,55,50,45,135,95,120,1,FALSE,Alakazam,https://img.pokemondb.net/sprites/ruby-sapphire/normal/alakazam.png,Facade,Psychic
+Machop,66,Fighting,,305,70,80,50,35,35,35,1,FALSE,Machop,https://img.pokemondb.net/sprites/ruby-sapphire/normal/machop.png,Strength,Brick Break
+Machoke,67,Fighting,,405,80,100,70,50,60,45,1,FALSE,Machoke,https://img.pokemondb.net/sprites/ruby-sapphire/normal/machoke.png,Karate Chop,Submission
+Machamp,68,Fighting,,505,90,130,80,65,85,55,1,FALSE,Machamp,https://img.pokemondb.net/sprites/ruby-sapphire/normal/machamp.png,Submission,Superpower
+Bellsprout,69,Grass,Poison,300,50,75,35,70,30,40,1,FALSE,Bellsprout,https://img.pokemondb.net/sprites/ruby-sapphire/normal/bellsprout.png,Wrap,Vine Whip
+Weepinbell,70,Grass,Poison,390,65,90,50,85,45,55,1,FALSE,Weepinbell,https://img.pokemondb.net/sprites/ruby-sapphire/normal/weepinbell.png,Wrap,Razor Leaf
+Victreebel,71,Grass,Poison,490,80,105,65,100,70,70,1,FALSE,Victreebel,https://img.pokemondb.net/sprites/ruby-sapphire/normal/victreebel.png,Acid,Razor Leaf
+Tentacool,72,Water,Poison,335,40,40,35,50,100,70,1,FALSE,Tentacool,https://img.pokemondb.net/sprites/ruby-sapphire/normal/tentacool.png,Poison Sting,BubbleBeam
+Tentacruel,73,Water,Poison,515,80,70,65,80,120,100,1,FALSE,Tentacruel,https://img.pokemondb.net/sprites/ruby-sapphire/normal/tentacruel.png,Acid,Hydro Pump
+Geodude,74,Rock,Ground,300,40,80,100,30,30,20,1,FALSE,Geodude,https://img.pokemondb.net/sprites/ruby-sapphire/normal/geodude.png,Tackle,Rock Throw
+Graveler,75,Rock,Ground,390,55,95,115,45,45,35,1,FALSE,Graveler,https://img.pokemondb.net/sprites/ruby-sapphire/normal/graveler.png,Take Down,Rock Slide
+Golem,76,Rock,Ground,495,80,120,130,55,65,45,1,FALSE,Golem,https://img.pokemondb.net/sprites/ruby-sapphire/normal/golem.png,Explosion,Earthquake
+Ponyta,77,Fire,,410,50,85,55,65,65,90,1,FALSE,Ponyta,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ponyta.png,Quick Attack,Fire Spin
+Rapidash,78,Fire,,500,65,100,70,80,80,105,1,FALSE,Rapidash,https://img.pokemondb.net/sprites/ruby-sapphire/normal/rapidash.png,Stomp,Fire Blast
+Slowpoke,79,Water,Psychic,315,90,65,65,40,40,15,1,FALSE,Slowpoke,https://img.pokemondb.net/sprites/ruby-sapphire/normal/slowpoke.png,Tackle,Confusion
+Slowbro,80,Water,Psychic,490,95,75,110,100,80,30,1,FALSE,Slowbro,https://img.pokemondb.net/sprites/ruby-sapphire/normal/slowbro.png,Surf,Psychic
+Magnemite,81,Electric,Steel,325,25,35,70,95,55,45,1,FALSE,Magnemite,https://img.pokemondb.net/sprites/ruby-sapphire/normal/magnemite.png,Tackle,Thunderbolt
+Magneton,82,Electric,Steel,465,50,60,95,120,70,70,1,FALSE,Magneton,https://img.pokemondb.net/sprites/ruby-sapphire/normal/magneton.png,Tri Attack,Thunder
+Farfetch'd,83,Normal,Flying,352,52,65,55,58,62,60,1,FALSE,Farfetch'd,https://img.pokemondb.net/sprites/ruby-sapphire/normal/farfetch'd.png,Quick Attack,Sky Attack
+Doduo,84,Normal,Flying,310,35,85,45,35,35,75,1,FALSE,Doduo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/doduo.png,Fury Attack,Peck
+Dodrio,85,Normal,Flying,460,60,110,70,60,60,100,1,FALSE,Dodrio,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dodrio.png,Quick Attack,Drill Peck
+Seel,86,Water,,325,65,45,55,45,70,45,1,FALSE,Seel,https://img.pokemondb.net/sprites/ruby-sapphire/normal/seel.png,Headbutt,Aurora Beam
+Dewgong,87,Water,Ice,475,90,70,80,70,95,70,1,FALSE,Dewgong,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dewgong.png,Take Down,Ice Beam
+Grimer,88,Poison,,325,80,80,50,40,50,25,1,FALSE,Grimer,https://img.pokemondb.net/sprites/ruby-sapphire/normal/grimer.png,Pound,Sludge
+Muk,89,Poison,,500,105,105,75,65,100,50,1,FALSE,Muk,https://img.pokemondb.net/sprites/ruby-sapphire/normal/muk.png,Pound,Sludge Bomb
+Shellder,90,Water,,305,30,65,100,45,25,40,1,FALSE,Shellder,https://img.pokemondb.net/sprites/ruby-sapphire/normal/shellder.png,Tackle,Aurora Beam
+Cloyster,91,Water,Ice,525,50,95,180,85,45,70,1,FALSE,Cloyster,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cloyster.png,Twineedle,Ice Beam
+Gastly,92,Ghost,Poison,310,30,35,30,100,35,80,1,FALSE,Gastly,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gastly.png,Headbutt,Night Shade
+Haunter,93,Ghost,Poison,405,45,50,45,115,55,95,1,FALSE,Haunter,https://img.pokemondb.net/sprites/ruby-sapphire/normal/haunter.png,Headbutt,Shadow Ball
+Gengar,94,Ghost,Poison,500,60,65,60,130,75,110,1,FALSE,Gengar,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gengar.png,Smog,Shadow Ball
+Onix,95,Rock,Ground,385,35,45,160,30,45,70,1,FALSE,Onix,https://img.pokemondb.net/sprites/ruby-sapphire/normal/onix.png,Tackle,Earthquake
+Drowzee,96,Psychic,,328,60,48,45,43,90,42,1,FALSE,Drowzee,https://img.pokemondb.net/sprites/ruby-sapphire/normal/drowzee.png,Pound,Psybeam
+Hypno,97,Psychic,,483,85,73,70,73,115,67,1,FALSE,Hypno,https://img.pokemondb.net/sprites/ruby-sapphire/normal/hypno.png,Headbutt,Psychic
+Krabby,98,Water,,325,30,105,90,25,25,50,1,FALSE,Krabby,https://img.pokemondb.net/sprites/ruby-sapphire/normal/krabby.png,ViceGrip,BubbleBeam
+Kingler,99,Water,,475,55,130,115,50,50,75,1,FALSE,Kingler,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kingler.png,Slam,Crabhammer
+Voltorb,100,Electric,,330,40,30,50,55,55,100,1,FALSE,Voltorb,https://img.pokemondb.net/sprites/ruby-sapphire/normal/voltorb.png,Swift,Thunderbolt
+Electrode,101,Electric,,480,60,50,70,80,80,140,1,FALSE,Electrode,https://img.pokemondb.net/sprites/ruby-sapphire/normal/electrode.png,Explosion,Thunderbolt
+Exeggcute,102,Grass,Psychic,325,60,40,80,60,45,40,1,FALSE,Exeggcute,https://img.pokemondb.net/sprites/ruby-sapphire/normal/exeggcute.png,Barrage,Confusion
+Exeggutor,103,Grass,Psychic,520,95,95,85,125,65,55,1,FALSE,Exeggutor,https://img.pokemondb.net/sprites/ruby-sapphire/normal/exeggutor.png,Egg Bomb,Psybeam
+Cubone,104,Ground,,320,50,50,95,40,50,35,1,FALSE,Cubone,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cubone.png,Rage,Bone Club
+Marowak,105,Ground,,425,60,80,110,50,80,45,1,FALSE,Marowak,https://img.pokemondb.net/sprites/ruby-sapphire/normal/marowak.png,Double-Edge,Bonemerang
+Hitmonlee,106,Fighting,,455,50,120,53,35,110,87,1,FALSE,Hitmonlee,https://img.pokemondb.net/sprites/ruby-sapphire/normal/hitmonlee.png,Facade,Jump Kick
+Hitmonchan,107,Fighting,,455,50,105,79,35,110,76,1,FALSE,Hitmonchan,https://img.pokemondb.net/sprites/ruby-sapphire/normal/hitmonchan.png,Mega Punch,ThunderPunch
+Lickitung,108,Normal,,385,90,55,75,60,75,30,1,FALSE,Lickitung,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lickitung.png,Lick,Slam
+Koffing,109,Poison,,340,40,65,95,60,45,35,1,FALSE,Koffing,https://img.pokemondb.net/sprites/ruby-sapphire/normal/koffing.png,Selfdestruct,Smog
+Weezing,110,Poison,,490,65,90,120,85,70,60,1,FALSE,Weezing,https://img.pokemondb.net/sprites/ruby-sapphire/normal/weezing.png,Explosion,Sludge Bomb
+Rhyhorn,111,Ground,Rock,345,80,85,95,30,30,25,1,FALSE,Rhyhorn,https://img.pokemondb.net/sprites/ruby-sapphire/normal/rhyhorn.png,Take Down,Rock Throw
+Rhydon,112,Ground,Rock,485,105,130,120,45,45,40,1,FALSE,Rhydon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/rhydon.png,Horn Drill,Rock Slide
+Chansey,113,Normal,,450,250,5,5,35,105,50,1,FALSE,Chansey,https://img.pokemondb.net/sprites/ruby-sapphire/normal/chansey.png,Pound,Double-Edge
+Tangela,114,Grass,,435,65,55,115,100,40,60,1,FALSE,Tangela,https://img.pokemondb.net/sprites/ruby-sapphire/normal/tangela.png,Slam,Mega Drain
+Kangaskhan,115,Normal,,490,105,95,80,40,80,90,1,FALSE,Kangaskhan,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kangaskhan.png,Dizzy Punch,Outrage
+Horsea,116,Water,,295,30,40,70,70,25,60,1,FALSE,Horsea,https://img.pokemondb.net/sprites/ruby-sapphire/normal/horsea.png,Headbutt,Waterfall
+Seadra,117,Water,,440,55,65,95,95,45,85,1,FALSE,Seadra,https://img.pokemondb.net/sprites/ruby-sapphire/normal/seadra.png,Hidden Power,Hydro Pump
+Goldeen,118,Water,,320,45,67,60,35,50,63,1,FALSE,Goldeen,https://img.pokemondb.net/sprites/ruby-sapphire/normal/goldeen.png,Quick Attack,Waterfall
+Seaking,119,Water,,450,80,92,65,65,80,68,1,FALSE,Seaking,https://img.pokemondb.net/sprites/ruby-sapphire/normal/seaking.png,Horn Attack,Megahorn
+Staryu,120,Water,,340,30,45,55,70,55,85,1,FALSE,Staryu,https://img.pokemondb.net/sprites/ruby-sapphire/normal/staryu.png,Swift,BubbleBeam
+Starmie,121,Water,Psychic,520,60,75,85,100,85,115,1,FALSE,Starmie,https://img.pokemondb.net/sprites/ruby-sapphire/normal/starmie.png,Psywave,Hydro Pump
+Mr Mime,122,Psychic,Fairy,460,40,45,65,100,120,90,1,FALSE,Mr Mime,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mr mime.png,Pound,Psychic
+Scyther,123,Bug,Flying,500,70,110,80,55,80,105,1,FALSE,Scyther,https://img.pokemondb.net/sprites/ruby-sapphire/normal/scyther.png,Razor Wind,Wing Attack
+Jynx,124,Ice,Psychic,455,65,50,35,115,95,95,1,FALSE,Jynx,https://img.pokemondb.net/sprites/ruby-sapphire/normal/jynx.png,Confusion,Blizzard
+Electabuzz,125,Electric,,490,65,83,57,95,85,105,1,FALSE,Electabuzz,https://img.pokemondb.net/sprites/ruby-sapphire/normal/electabuzz.png,Low Kick,Thunder
+Magmar,126,Fire,,495,65,95,57,100,85,93,1,FALSE,Magmar,https://img.pokemondb.net/sprites/ruby-sapphire/normal/magmar.png,Smog,Fire Punch
+Pinsir,127,Bug,,500,65,125,100,55,70,85,1,FALSE,Pinsir,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pinsir.png,ViceGrip,Superpower
+Tauros,128,Normal,,490,75,100,95,40,70,110,1,FALSE,Tauros,https://img.pokemondb.net/sprites/ruby-sapphire/normal/tauros.png,Horn Attack,Outrage
+Magikarp,129,Water,,200,20,10,55,15,20,80,1,FALSE,Magikarp,https://img.pokemondb.net/sprites/ruby-sapphire/normal/magikarp.png,Tackle,
+Gyarados,130,Water,Flying,540,95,125,79,60,100,81,1,FALSE,Gyarados,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gyarados.png,Hyper Beam,Dragon Rage
+Lapras,131,Water,Ice,535,130,85,80,85,95,60,1,FALSE,Lapras,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lapras.png,Body Slam,Blizzard
+Ditto,132,Normal,,288,48,48,48,48,48,48,1,FALSE,Ditto,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ditto.png,Transform,Transform
+Eevee,133,Normal,,325,55,55,50,45,65,55,1,FALSE,Eevee,https://img.pokemondb.net/sprites/ruby-sapphire/normal/eevee.png,Take Down,Bite
+Vaporeon,134,Water,,525,130,65,60,110,95,65,1,FALSE,Vaporeon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/vaporeon.png,Aurora Beam,Hydro Pump
+Jolteon,135,Electric,,525,65,65,60,110,95,130,1,FALSE,Jolteon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/jolteon.png,Pin Missile,Thunder
+Flareon,136,Fire,,525,65,130,60,95,110,65,1,FALSE,Flareon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/flareon.png,Bite,Fire Spin
+Porygon,137,Normal,,395,65,60,70,85,75,40,1,FALSE,Porygon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/porygon.png,Tri Attack,Psybeam
+Omanyte,138,Rock,Water,355,35,40,100,90,55,35,1,FALSE,Omanyte,https://img.pokemondb.net/sprites/ruby-sapphire/normal/omanyte.png,Water Gun,Rock Slide
+Omastar,139,Rock,Water,495,70,60,125,115,70,55,1,FALSE,Omastar,https://img.pokemondb.net/sprites/ruby-sapphire/normal/omastar.png,Spike Cannon,Hydro Pump
+Kabuto,140,Rock,Water,355,30,80,90,55,45,55,1,FALSE,Kabuto,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kabuto.png,Absorb,Rock Throw
+Kabutops,141,Rock,Water,495,60,115,105,65,70,80,1,FALSE,Kabutops,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kabutops.png,Slash,Rock Slide
+Aerodactyl,142,Rock,Flying,515,80,105,65,60,75,130,1,FALSE,Aerodactyl,https://img.pokemondb.net/sprites/ruby-sapphire/normal/aerodactyl.png,Take Down,Fly
+Snorlax,143,Normal,,540,160,110,65,65,110,30,1,FALSE,Snorlax,https://img.pokemondb.net/sprites/ruby-sapphire/normal/snorlax.png,Headbutt,Superpower
+Articuno,144,Ice,Flying,580,90,85,100,95,125,85,1,TRUE,Articuno,https://img.pokemondb.net/sprites/ruby-sapphire/normal/articuno.png,Blizzard,Sky Attack
+Zapdos,145,Electric,Flying,580,90,90,85,125,90,100,1,TRUE,Zapdos,https://img.pokemondb.net/sprites/ruby-sapphire/normal/zapdos.png,Thunder,Sky Attack
+Moltres,146,Fire,Flying,580,90,100,90,125,85,90,1,TRUE,Moltres,https://img.pokemondb.net/sprites/ruby-sapphire/normal/moltres.png,Flamethrower,Sky Attack
+Dratini,147,Dragon,,300,41,64,45,50,50,50,1,FALSE,Dratini,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dratini.png,Slam,Outrage
+Dragonair,148,Dragon,,420,61,84,65,70,70,70,1,FALSE,Dragonair,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dragonair.png,Slam,Outrage
+Dragonite,149,Dragon,Flying,600,91,134,95,100,100,80,1,FALSE,Dragonite,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dragonite.png,Outrage,Hyper Beam
+Mewtwo,150,Psychic,,680,106,110,90,154,90,130,1,TRUE,Mewtwo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mewtwo.png,Swift,Psychic
+Mew,151,Psychic,,600,100,100,100,100,100,100,1,FALSE,Mew,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mew.png,Mega Punch,Psychic
+Chikorita,152,Grass,,318,45,49,65,49,65,45,2,FALSE,Chikorita,https://img.pokemondb.net/sprites/ruby-sapphire/normal/chikorita.png,,
+Bayleef,153,Grass,,405,60,62,80,63,80,60,2,FALSE,Bayleef,https://img.pokemondb.net/sprites/ruby-sapphire/normal/bayleef.png,,
+Meganium,154,Grass,,525,80,82,100,83,100,80,2,FALSE,Meganium,https://img.pokemondb.net/sprites/ruby-sapphire/normal/meganium.png,,
+Cyndaquil,155,Fire,,309,39,52,43,60,50,65,2,FALSE,Cyndaquil,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cyndaquil.png,,
+Quilava,156,Fire,,405,58,64,58,80,65,80,2,FALSE,Quilava,https://img.pokemondb.net/sprites/ruby-sapphire/normal/quilava.png,,
+Typhlosion,157,Fire,,534,78,84,78,109,85,100,2,FALSE,Typhlosion,https://img.pokemondb.net/sprites/ruby-sapphire/normal/typhlosion.png,,
+Totodile,158,Water,,314,50,65,64,44,48,43,2,FALSE,Totodile,https://img.pokemondb.net/sprites/ruby-sapphire/normal/totodile.png,,
+Croconaw,159,Water,,405,65,80,80,59,63,58,2,FALSE,Croconaw,https://img.pokemondb.net/sprites/ruby-sapphire/normal/croconaw.png,,
+Feraligatr,160,Water,,530,85,105,100,79,83,78,2,FALSE,Feraligatr,https://img.pokemondb.net/sprites/ruby-sapphire/normal/feraligatr.png,,
+Sentret,161,Normal,,215,35,46,34,35,45,20,2,FALSE,Sentret,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sentret.png,,
+Furret,162,Normal,,415,85,76,64,45,55,90,2,FALSE,Furret,https://img.pokemondb.net/sprites/ruby-sapphire/normal/furret.png,,
+Hoothoot,163,Normal,Flying,262,60,30,30,36,56,50,2,FALSE,Hoothoot,https://img.pokemondb.net/sprites/ruby-sapphire/normal/hoothoot.png,,
+Noctowl,164,Normal,Flying,442,100,50,50,76,96,70,2,FALSE,Noctowl,https://img.pokemondb.net/sprites/ruby-sapphire/normal/noctowl.png,,
+Ledyba,165,Bug,Flying,265,40,20,30,40,80,55,2,FALSE,Ledyba,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ledyba.png,,
+Ledian,166,Bug,Flying,390,55,35,50,55,110,85,2,FALSE,Ledian,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ledian.png,,
+Spinarak,167,Bug,Poison,250,40,60,40,40,40,30,2,FALSE,Spinarak,https://img.pokemondb.net/sprites/ruby-sapphire/normal/spinarak.png,,
+Ariados,168,Bug,Poison,390,70,90,70,60,60,40,2,FALSE,Ariados,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ariados.png,,
+Crobat,169,Poison,Flying,535,85,90,80,70,80,130,2,FALSE,Crobat,https://img.pokemondb.net/sprites/ruby-sapphire/normal/crobat.png,,
+Chinchou,170,Water,Electric,330,75,38,38,56,56,67,2,FALSE,Chinchou,https://img.pokemondb.net/sprites/ruby-sapphire/normal/chinchou.png,,
+Lanturn,171,Water,Electric,460,125,58,58,76,76,67,2,FALSE,Lanturn,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lanturn.png,,
+Pichu,172,Electric,,205,20,40,15,35,35,60,2,FALSE,Pichu,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pichu.png,,
+Cleffa,173,Fairy,,218,50,25,28,45,55,15,2,FALSE,Cleffa,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cleffa.png,,
+Igglybuff,174,Normal,Fairy,210,90,30,15,40,20,15,2,FALSE,Igglybuff,https://img.pokemondb.net/sprites/ruby-sapphire/normal/igglybuff.png,,
+Togepi,175,Fairy,,245,35,20,65,40,65,20,2,FALSE,Togepi,https://img.pokemondb.net/sprites/ruby-sapphire/normal/togepi.png,,
+Togetic,176,Fairy,Flying,405,55,40,85,80,105,40,2,FALSE,Togetic,https://img.pokemondb.net/sprites/ruby-sapphire/normal/togetic.png,,
+Natu,177,Psychic,Flying,320,40,50,45,70,45,70,2,FALSE,Natu,https://img.pokemondb.net/sprites/ruby-sapphire/normal/natu.png,,
+Xatu,178,Psychic,Flying,470,65,75,70,95,70,95,2,FALSE,Xatu,https://img.pokemondb.net/sprites/ruby-sapphire/normal/xatu.png,,
+Mareep,179,Electric,,280,55,40,40,65,45,35,2,FALSE,Mareep,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mareep.png,,
+Flaaffy,180,Electric,,365,70,55,55,80,60,45,2,FALSE,Flaaffy,https://img.pokemondb.net/sprites/ruby-sapphire/normal/flaaffy.png,,
+Ampharos,181,Electric,,510,90,75,85,115,90,55,2,FALSE,Ampharos,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ampharos.png,,
+Bellossom,182,Grass,,490,75,80,95,90,100,50,2,FALSE,Bellossom,https://img.pokemondb.net/sprites/ruby-sapphire/normal/bellossom.png,,
+Marill,183,Water,Fairy,250,70,20,50,20,50,40,2,FALSE,Marill,https://img.pokemondb.net/sprites/ruby-sapphire/normal/marill.png,,
+Azumarill,184,Water,Fairy,420,100,50,80,60,80,50,2,FALSE,Azumarill,https://img.pokemondb.net/sprites/ruby-sapphire/normal/azumarill.png,,
+Sudowoodo,185,Rock,,410,70,100,115,30,65,30,2,FALSE,Sudowoodo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sudowoodo.png,,
+Politoed,186,Water,,500,90,75,75,90,100,70,2,FALSE,Politoed,https://img.pokemondb.net/sprites/ruby-sapphire/normal/politoed.png,,
+Hoppip,187,Grass,Flying,250,35,35,40,35,55,50,2,FALSE,Hoppip,https://img.pokemondb.net/sprites/ruby-sapphire/normal/hoppip.png,,
+Skiploom,188,Grass,Flying,340,55,45,50,45,65,80,2,FALSE,Skiploom,https://img.pokemondb.net/sprites/ruby-sapphire/normal/skiploom.png,,
+Jumpluff,189,Grass,Flying,460,75,55,70,55,95,110,2,FALSE,Jumpluff,https://img.pokemondb.net/sprites/ruby-sapphire/normal/jumpluff.png,,
+Aipom,190,Normal,,360,55,70,55,40,55,85,2,FALSE,Aipom,https://img.pokemondb.net/sprites/ruby-sapphire/normal/aipom.png,,
+Sunkern,191,Grass,,180,30,30,30,30,30,30,2,FALSE,Sunkern,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sunkern.png,,
+Sunflora,192,Grass,,425,75,75,55,105,85,30,2,FALSE,Sunflora,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sunflora.png,,
+Yanma,193,Bug,Flying,390,65,65,45,75,45,95,2,FALSE,Yanma,https://img.pokemondb.net/sprites/ruby-sapphire/normal/yanma.png,,
+Wooper,194,Water,Ground,210,55,45,45,25,25,15,2,FALSE,Wooper,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wooper.png,,
+Quagsire,195,Water,Ground,430,95,85,85,65,65,35,2,FALSE,Quagsire,https://img.pokemondb.net/sprites/ruby-sapphire/normal/quagsire.png,,
+Espeon,196,Psychic,,525,65,65,60,130,95,110,2,FALSE,Espeon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/espeon.png,,
+Umbreon,197,Dark,,525,95,65,110,60,130,65,2,FALSE,Umbreon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/umbreon.png,,
+Murkrow,198,Dark,Flying,405,60,85,42,85,42,91,2,FALSE,Murkrow,https://img.pokemondb.net/sprites/ruby-sapphire/normal/murkrow.png,,
+Slowking,199,Water,Psychic,490,95,75,80,100,110,30,2,FALSE,Slowking,https://img.pokemondb.net/sprites/ruby-sapphire/normal/slowking.png,,
+Misdreavus,200,Ghost,,435,60,60,60,85,85,85,2,FALSE,Misdreavus,https://img.pokemondb.net/sprites/ruby-sapphire/normal/misdreavus.png,,
+Unown,201,Psychic,,336,48,72,48,72,48,48,2,FALSE,Unown,https://img.pokemondb.net/sprites/ruby-sapphire/normal/unown.png,,
+Wobbuffet,202,Psychic,,405,190,33,58,33,58,33,2,FALSE,Wobbuffet,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wobbuffet.png,,
+Girafarig,203,Normal,Psychic,455,70,80,65,90,65,85,2,FALSE,Girafarig,https://img.pokemondb.net/sprites/ruby-sapphire/normal/girafarig.png,,
+Pineco,204,Bug,,290,50,65,90,35,35,15,2,FALSE,Pineco,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pineco.png,,
+Forretress,205,Bug,Steel,465,75,90,140,60,60,40,2,FALSE,Forretress,https://img.pokemondb.net/sprites/ruby-sapphire/normal/forretress.png,,
+Dunsparce,206,Normal,,415,100,70,70,65,65,45,2,FALSE,Dunsparce,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dunsparce.png,,
+Gligar,207,Ground,Flying,430,65,75,105,35,65,85,2,FALSE,Gligar,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gligar.png,,
+Steelix,208,Steel,Ground,510,75,85,200,55,65,30,2,FALSE,Steelix,https://img.pokemondb.net/sprites/ruby-sapphire/normal/steelix.png,,
+Snubbull,209,Fairy,,300,60,80,50,40,40,30,2,FALSE,Snubbull,https://img.pokemondb.net/sprites/ruby-sapphire/normal/snubbull.png,,
+Granbull,210,Fairy,,450,90,120,75,60,60,45,2,FALSE,Granbull,https://img.pokemondb.net/sprites/ruby-sapphire/normal/granbull.png,,
+Qwilfish,211,Water,Poison,430,65,95,75,55,55,85,2,FALSE,Qwilfish,https://img.pokemondb.net/sprites/ruby-sapphire/normal/qwilfish.png,,
+Scizor,212,Bug,Steel,500,70,130,100,55,80,65,2,FALSE,Scizor,https://img.pokemondb.net/sprites/ruby-sapphire/normal/scizor.png,,
+Shuckle,213,Bug,Rock,505,20,10,230,10,230,5,2,FALSE,Shuckle,https://img.pokemondb.net/sprites/ruby-sapphire/normal/shuckle.png,,
+Heracross,214,Bug,Fighting,500,80,125,75,40,95,85,2,FALSE,Heracross,https://img.pokemondb.net/sprites/ruby-sapphire/normal/heracross.png,,
+Sneasel,215,Dark,Ice,430,55,95,55,35,75,115,2,FALSE,Sneasel,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sneasel.png,,
+Teddiursa,216,Normal,,330,60,80,50,50,50,40,2,FALSE,Teddiursa,https://img.pokemondb.net/sprites/ruby-sapphire/normal/teddiursa.png,,
+Ursaring,217,Normal,,500,90,130,75,75,75,55,2,FALSE,Ursaring,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ursaring.png,,
+Slugma,218,Fire,,250,40,40,40,70,40,20,2,FALSE,Slugma,https://img.pokemondb.net/sprites/ruby-sapphire/normal/slugma.png,,
+Magcargo,219,Fire,Rock,410,50,50,120,80,80,30,2,FALSE,Magcargo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/magcargo.png,,
+Swinub,220,Ice,Ground,250,50,50,40,30,30,50,2,FALSE,Swinub,https://img.pokemondb.net/sprites/ruby-sapphire/normal/swinub.png,,
+Piloswine,221,Ice,Ground,450,100,100,80,60,60,50,2,FALSE,Piloswine,https://img.pokemondb.net/sprites/ruby-sapphire/normal/piloswine.png,,
+Corsola,222,Water,Rock,380,55,55,85,65,85,35,2,FALSE,Corsola,https://img.pokemondb.net/sprites/ruby-sapphire/normal/corsola.png,,
+Remoraid,223,Water,,300,35,65,35,65,35,65,2,FALSE,Remoraid,https://img.pokemondb.net/sprites/ruby-sapphire/normal/remoraid.png,,
+Octillery,224,Water,,480,75,105,75,105,75,45,2,FALSE,Octillery,https://img.pokemondb.net/sprites/ruby-sapphire/normal/octillery.png,,
+Delibird,225,Ice,Flying,330,45,55,45,65,45,75,2,FALSE,Delibird,https://img.pokemondb.net/sprites/ruby-sapphire/normal/delibird.png,,
+Mantine,226,Water,Flying,465,65,40,70,80,140,70,2,FALSE,Mantine,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mantine.png,,
+Skarmory,227,Steel,Flying,465,65,80,140,40,70,70,2,FALSE,Skarmory,https://img.pokemondb.net/sprites/ruby-sapphire/normal/skarmory.png,,
+Houndour,228,Dark,Fire,330,45,60,30,80,50,65,2,FALSE,Houndour,https://img.pokemondb.net/sprites/ruby-sapphire/normal/houndour.png,,
+Houndoom,229,Dark,Fire,500,75,90,50,110,80,95,2,FALSE,Houndoom,https://img.pokemondb.net/sprites/ruby-sapphire/normal/houndoom.png,,
+Kingdra,230,Water,Dragon,540,75,95,95,95,95,85,2,FALSE,Kingdra,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kingdra.png,,
+Phanpy,231,Ground,,330,90,60,60,40,40,40,2,FALSE,Phanpy,https://img.pokemondb.net/sprites/ruby-sapphire/normal/phanpy.png,,
+Donphan,232,Ground,,500,90,120,120,60,60,50,2,FALSE,Donphan,https://img.pokemondb.net/sprites/ruby-sapphire/normal/donphan.png,,
+Porygon2,233,Normal,,515,85,80,90,105,95,60,2,FALSE,Porygon2,https://img.pokemondb.net/sprites/ruby-sapphire/normal/porygon2.png,,
+Stantler,234,Normal,,465,73,95,62,85,65,85,2,FALSE,Stantler,https://img.pokemondb.net/sprites/ruby-sapphire/normal/stantler.png,,
+Smeargle,235,Normal,,250,55,20,35,20,45,75,2,FALSE,Smeargle,https://img.pokemondb.net/sprites/ruby-sapphire/normal/smeargle.png,,
+Tyrogue,236,Fighting,,210,35,35,35,35,35,35,2,FALSE,Tyrogue,https://img.pokemondb.net/sprites/ruby-sapphire/normal/tyrogue.png,,
+Hitmontop,237,Fighting,,455,50,95,95,35,110,70,2,FALSE,Hitmontop,https://img.pokemondb.net/sprites/ruby-sapphire/normal/hitmontop.png,,
+Smoochum,238,Ice,Psychic,305,45,30,15,85,65,65,2,FALSE,Smoochum,https://img.pokemondb.net/sprites/ruby-sapphire/normal/smoochum.png,,
+Elekid,239,Electric,,360,45,63,37,65,55,95,2,FALSE,Elekid,https://img.pokemondb.net/sprites/ruby-sapphire/normal/elekid.png,,
+Magby,240,Fire,,365,45,75,37,70,55,83,2,FALSE,Magby,https://img.pokemondb.net/sprites/ruby-sapphire/normal/magby.png,,
+Miltank,241,Normal,,490,95,80,105,40,70,100,2,FALSE,Miltank,https://img.pokemondb.net/sprites/ruby-sapphire/normal/miltank.png,,
+Blissey,242,Normal,,540,255,10,10,75,135,55,2,FALSE,Blissey,https://img.pokemondb.net/sprites/ruby-sapphire/normal/blissey.png,,
+Raikou,243,Electric,,580,90,85,75,115,100,115,2,TRUE,Raikou,https://img.pokemondb.net/sprites/ruby-sapphire/normal/raikou.png,,
+Entei,244,Fire,,580,115,115,85,90,75,100,2,TRUE,Entei,https://img.pokemondb.net/sprites/ruby-sapphire/normal/entei.png,,
+Suicune,245,Water,,580,100,75,115,90,115,85,2,TRUE,Suicune,https://img.pokemondb.net/sprites/ruby-sapphire/normal/suicune.png,,
+Larvitar,246,Rock,Ground,300,50,64,50,45,50,41,2,FALSE,Larvitar,https://img.pokemondb.net/sprites/ruby-sapphire/normal/larvitar.png,,
+Pupitar,247,Rock,Ground,410,70,84,70,65,70,51,2,FALSE,Pupitar,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pupitar.png,,
+Tyranitar,248,Rock,Dark,600,100,134,110,95,100,61,2,FALSE,Tyranitar,https://img.pokemondb.net/sprites/ruby-sapphire/normal/tyranitar.png,,
+Lugia,249,Psychic,Flying,680,106,90,130,90,154,110,2,TRUE,Lugia,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lugia.png,,
+Ho-oh,250,Fire,Flying,680,106,130,90,110,154,90,2,TRUE,Ho-oh,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ho-oh.png,,
+Celebi,251,Psychic,Grass,600,100,100,100,100,100,100,2,FALSE,Celebi,https://img.pokemondb.net/sprites/ruby-sapphire/normal/celebi.png,,
+Treecko,252,Grass,,310,40,45,35,65,55,70,3,FALSE,Treecko,https://img.pokemondb.net/sprites/ruby-sapphire/normal/treecko.png,,
+Grovyle,253,Grass,,405,50,65,45,85,65,95,3,FALSE,Grovyle,https://img.pokemondb.net/sprites/ruby-sapphire/normal/grovyle.png,,
+Sceptile,254,Grass,,530,70,85,65,105,85,120,3,FALSE,Sceptile,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sceptile.png,,
+Torchic,255,Fire,,310,45,60,40,70,50,45,3,FALSE,Torchic,https://img.pokemondb.net/sprites/ruby-sapphire/normal/torchic.png,,
+Combusken,256,Fire,Fighting,405,60,85,60,85,60,55,3,FALSE,Combusken,https://img.pokemondb.net/sprites/ruby-sapphire/normal/combusken.png,,
+Blaziken,257,Fire,Fighting,530,80,120,70,110,70,80,3,FALSE,Blaziken,https://img.pokemondb.net/sprites/ruby-sapphire/normal/blaziken.png,,
+Mudkip,258,Water,,310,50,70,50,50,50,40,3,FALSE,Mudkip,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mudkip.png,,
+Marshtomp,259,Water,Ground,405,70,85,70,60,70,50,3,FALSE,Marshtomp,https://img.pokemondb.net/sprites/ruby-sapphire/normal/marshtomp.png,,
+Swampert,260,Water,Ground,535,100,110,90,85,90,60,3,FALSE,Swampert,https://img.pokemondb.net/sprites/ruby-sapphire/normal/swampert.png,,
+Poochyena,261,Dark,,220,35,55,35,30,30,35,3,FALSE,Poochyena,https://img.pokemondb.net/sprites/ruby-sapphire/normal/poochyena.png,,
+Mightyena,262,Dark,,420,70,90,70,60,60,70,3,FALSE,Mightyena,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mightyena.png,,
+Zigzagoon,263,Normal,,240,38,30,41,30,41,60,3,FALSE,Zigzagoon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/zigzagoon.png,,
+Linoone,264,Normal,,420,78,70,61,50,61,100,3,FALSE,Linoone,https://img.pokemondb.net/sprites/ruby-sapphire/normal/linoone.png,,
+Wurmple,265,Bug,,195,45,45,35,20,30,20,3,FALSE,Wurmple,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wurmple.png,,
+Silcoon,266,Bug,,205,50,35,55,25,25,15,3,FALSE,Silcoon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/silcoon.png,,
+Beautifly,267,Bug,Flying,395,60,70,50,100,50,65,3,FALSE,Beautifly,https://img.pokemondb.net/sprites/ruby-sapphire/normal/beautifly.png,,
+Cascoon,268,Bug,,205,50,35,55,25,25,15,3,FALSE,Cascoon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cascoon.png,,
+Dustox,269,Bug,Poison,385,60,50,70,50,90,65,3,FALSE,Dustox,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dustox.png,,
+Lotad,270,Water,Grass,220,40,30,30,40,50,30,3,FALSE,Lotad,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lotad.png,,
+Lombre,271,Water,Grass,340,60,50,50,60,70,50,3,FALSE,Lombre,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lombre.png,,
+Ludicolo,272,Water,Grass,480,80,70,70,90,100,70,3,FALSE,Ludicolo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ludicolo.png,,
+Seedot,273,Grass,,220,40,40,50,30,30,30,3,FALSE,Seedot,https://img.pokemondb.net/sprites/ruby-sapphire/normal/seedot.png,,
+Nuzleaf,274,Grass,Dark,340,70,70,40,60,40,60,3,FALSE,Nuzleaf,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nuzleaf.png,,
+Shiftry,275,Grass,Dark,480,90,100,60,90,60,80,3,FALSE,Shiftry,https://img.pokemondb.net/sprites/ruby-sapphire/normal/shiftry.png,,
+Taillow,276,Normal,Flying,270,40,55,30,30,30,85,3,FALSE,Taillow,https://img.pokemondb.net/sprites/ruby-sapphire/normal/taillow.png,,
+Swellow,277,Normal,Flying,430,60,85,60,50,50,125,3,FALSE,Swellow,https://img.pokemondb.net/sprites/ruby-sapphire/normal/swellow.png,,
+Wingull,278,Water,Flying,270,40,30,30,55,30,85,3,FALSE,Wingull,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wingull.png,,
+Pelipper,279,Water,Flying,430,60,50,100,85,70,65,3,FALSE,Pelipper,https://img.pokemondb.net/sprites/ruby-sapphire/normal/pelipper.png,,
+Ralts,280,Psychic,Fairy,198,28,25,25,45,35,40,3,FALSE,Ralts,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ralts.png,,
+Kirlia,281,Psychic,Fairy,278,38,35,35,65,55,50,3,FALSE,Kirlia,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kirlia.png,,
+Gardevoir,282,Psychic,Fairy,518,68,65,65,125,115,80,3,FALSE,Gardevoir,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gardevoir.png,,
+Surskit,283,Bug,Water,269,40,30,32,50,52,65,3,FALSE,Surskit,https://img.pokemondb.net/sprites/ruby-sapphire/normal/surskit.png,,
+Masquerain,284,Bug,Flying,414,70,60,62,80,82,60,3,FALSE,Masquerain,https://img.pokemondb.net/sprites/ruby-sapphire/normal/masquerain.png,,
+Shroomish,285,Grass,,295,60,40,60,40,60,35,3,FALSE,Shroomish,https://img.pokemondb.net/sprites/ruby-sapphire/normal/shroomish.png,,
+Breloom,286,Grass,Fighting,460,60,130,80,60,60,70,3,FALSE,Breloom,https://img.pokemondb.net/sprites/ruby-sapphire/normal/breloom.png,,
+Slakoth,287,Normal,,280,60,60,60,35,35,30,3,FALSE,Slakoth,https://img.pokemondb.net/sprites/ruby-sapphire/normal/slakoth.png,,
+Vigoroth,288,Normal,,440,80,80,80,55,55,90,3,FALSE,Vigoroth,https://img.pokemondb.net/sprites/ruby-sapphire/normal/vigoroth.png,,
+Slaking,289,Normal,,670,150,160,100,95,65,100,3,FALSE,Slaking,https://img.pokemondb.net/sprites/ruby-sapphire/normal/slaking.png,,
+Nincada,290,Bug,Ground,266,31,45,90,30,30,40,3,FALSE,Nincada,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nincada.png,,
+Ninjask,291,Bug,Flying,456,61,90,45,50,50,160,3,FALSE,Ninjask,https://img.pokemondb.net/sprites/ruby-sapphire/normal/ninjask.png,,
+Shedinja,292,Bug,Ghost,236,1,90,45,30,30,40,3,FALSE,Shedinja,https://img.pokemondb.net/sprites/ruby-sapphire/normal/shedinja.png,,
+Whismur,293,Normal,,240,64,51,23,51,23,28,3,FALSE,Whismur,https://img.pokemondb.net/sprites/ruby-sapphire/normal/whismur.png,,
+Loudred,294,Normal,,360,84,71,43,71,43,48,3,FALSE,Loudred,https://img.pokemondb.net/sprites/ruby-sapphire/normal/loudred.png,,
+Exploud,295,Normal,,490,104,91,63,91,73,68,3,FALSE,Exploud,https://img.pokemondb.net/sprites/ruby-sapphire/normal/exploud.png,,
+Makuhita,296,Fighting,,237,72,60,30,20,30,25,3,FALSE,Makuhita,https://img.pokemondb.net/sprites/ruby-sapphire/normal/makuhita.png,,
+Hariyama,297,Fighting,,474,144,120,60,40,60,50,3,FALSE,Hariyama,https://img.pokemondb.net/sprites/ruby-sapphire/normal/hariyama.png,,
+Azurill,298,Normal,Fairy,190,50,20,40,20,40,20,3,FALSE,Azurill,https://img.pokemondb.net/sprites/ruby-sapphire/normal/azurill.png,,
+Nosepass,299,Rock,,375,30,45,135,45,90,30,3,FALSE,Nosepass,https://img.pokemondb.net/sprites/ruby-sapphire/normal/nosepass.png,,
+Skitty,300,Normal,,260,50,45,45,35,35,50,3,FALSE,Skitty,https://img.pokemondb.net/sprites/ruby-sapphire/normal/skitty.png,,
+Delcatty,301,Normal,,380,70,65,65,55,55,70,3,FALSE,Delcatty,https://img.pokemondb.net/sprites/ruby-sapphire/normal/delcatty.png,,
+Sableye,302,Dark,Ghost,380,50,75,75,65,65,50,3,FALSE,Sableye,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sableye.png,,
+Mawile,303,Steel,Fairy,380,50,85,85,55,55,50,3,FALSE,Mawile,https://img.pokemondb.net/sprites/ruby-sapphire/normal/mawile.png,,
+Aron,304,Steel,Rock,330,50,70,100,40,40,30,3,FALSE,Aron,https://img.pokemondb.net/sprites/ruby-sapphire/normal/aron.png,,
+Lairon,305,Steel,Rock,430,60,90,140,50,50,40,3,FALSE,Lairon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lairon.png,,
+Aggron,306,Steel,Rock,530,70,110,180,60,60,50,3,FALSE,Aggron,https://img.pokemondb.net/sprites/ruby-sapphire/normal/aggron.png,,
+Meditite,307,Fighting,Psychic,280,30,40,55,40,55,60,3,FALSE,Meditite,https://img.pokemondb.net/sprites/ruby-sapphire/normal/meditite.png,,
+Medicham,308,Fighting,Psychic,410,60,60,75,60,75,80,3,FALSE,Medicham,https://img.pokemondb.net/sprites/ruby-sapphire/normal/medicham.png,,
+Electrike,309,Electric,,295,40,45,40,65,40,65,3,FALSE,Electrike,https://img.pokemondb.net/sprites/ruby-sapphire/normal/electrike.png,,
+Manectric,310,Electric,,475,70,75,60,105,60,105,3,FALSE,Manectric,https://img.pokemondb.net/sprites/ruby-sapphire/normal/manectric.png,,
+Plusle,311,Electric,,405,60,50,40,85,75,95,3,FALSE,Plusle,https://img.pokemondb.net/sprites/ruby-sapphire/normal/plusle.png,,
+Minun,312,Electric,,405,60,40,50,75,85,95,3,FALSE,Minun,https://img.pokemondb.net/sprites/ruby-sapphire/normal/minun.png,,
+Volbeat,313,Bug,,400,65,73,55,47,75,85,3,FALSE,Volbeat,https://img.pokemondb.net/sprites/ruby-sapphire/normal/volbeat.png,,
+Illumise,314,Bug,,400,65,47,55,73,75,85,3,FALSE,Illumise,https://img.pokemondb.net/sprites/ruby-sapphire/normal/illumise.png,,
+Roselia,315,Grass,Poison,400,50,60,45,100,80,65,3,FALSE,Roselia,https://img.pokemondb.net/sprites/ruby-sapphire/normal/roselia.png,,
+Gulpin,316,Poison,,302,70,43,53,43,53,40,3,FALSE,Gulpin,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gulpin.png,,
+Swalot,317,Poison,,467,100,73,83,73,83,55,3,FALSE,Swalot,https://img.pokemondb.net/sprites/ruby-sapphire/normal/swalot.png,,
+Carvanha,318,Water,Dark,305,45,90,20,65,20,65,3,FALSE,Carvanha,https://img.pokemondb.net/sprites/ruby-sapphire/normal/carvanha.png,,
+Sharpedo,319,Water,Dark,460,70,120,40,95,40,95,3,FALSE,Sharpedo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sharpedo.png,,
+Wailmer,320,Water,,400,130,70,35,70,35,60,3,FALSE,Wailmer,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wailmer.png,,
+Wailord,321,Water,,500,170,90,45,90,45,60,3,FALSE,Wailord,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wailord.png,,
+Numel,322,Fire,Ground,305,60,60,40,65,45,35,3,FALSE,Numel,https://img.pokemondb.net/sprites/ruby-sapphire/normal/numel.png,,
+Camerupt,323,Fire,Ground,460,70,100,70,105,75,40,3,FALSE,Camerupt,https://img.pokemondb.net/sprites/ruby-sapphire/normal/camerupt.png,,
+Torkoal,324,Fire,,470,70,85,140,85,70,20,3,FALSE,Torkoal,https://img.pokemondb.net/sprites/ruby-sapphire/normal/torkoal.png,,
+Spoink,325,Psychic,,330,60,25,35,70,80,60,3,FALSE,Spoink,https://img.pokemondb.net/sprites/ruby-sapphire/normal/spoink.png,,
+Grumpig,326,Psychic,,470,80,45,65,90,110,80,3,FALSE,Grumpig,https://img.pokemondb.net/sprites/ruby-sapphire/normal/grumpig.png,,
+Spinda,327,Normal,,360,60,60,60,60,60,60,3,FALSE,Spinda,https://img.pokemondb.net/sprites/ruby-sapphire/normal/spinda.png,,
+Trapinch,328,Ground,,290,45,100,45,45,45,10,3,FALSE,Trapinch,https://img.pokemondb.net/sprites/ruby-sapphire/normal/trapinch.png,,
+Vibrava,329,Ground,Dragon,340,50,70,50,50,50,70,3,FALSE,Vibrava,https://img.pokemondb.net/sprites/ruby-sapphire/normal/vibrava.png,,
+Flygon,330,Ground,Dragon,520,80,100,80,80,80,100,3,FALSE,Flygon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/flygon.png,,
+Cacnea,331,Grass,,335,50,85,40,85,40,35,3,FALSE,Cacnea,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cacnea.png,,
+Cacturne,332,Grass,Dark,475,70,115,60,115,60,55,3,FALSE,Cacturne,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cacturne.png,,
+Swablu,333,Normal,Flying,310,45,40,60,40,75,50,3,FALSE,Swablu,https://img.pokemondb.net/sprites/ruby-sapphire/normal/swablu.png,,
+Altaria,334,Dragon,Flying,490,75,70,90,70,105,80,3,FALSE,Altaria,https://img.pokemondb.net/sprites/ruby-sapphire/normal/altaria.png,,
+Zangoose,335,Normal,,458,73,115,60,60,60,90,3,FALSE,Zangoose,https://img.pokemondb.net/sprites/ruby-sapphire/normal/zangoose.png,,
+Seviper,336,Poison,,458,73,100,60,100,60,65,3,FALSE,Seviper,https://img.pokemondb.net/sprites/ruby-sapphire/normal/seviper.png,,
+Lunatone,337,Rock,Psychic,440,70,55,65,95,85,70,3,FALSE,Lunatone,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lunatone.png,,
+Solrock,338,Rock,Psychic,440,70,95,85,55,65,70,3,FALSE,Solrock,https://img.pokemondb.net/sprites/ruby-sapphire/normal/solrock.png,,
+Barboach,339,Water,Ground,288,50,48,43,46,41,60,3,FALSE,Barboach,https://img.pokemondb.net/sprites/ruby-sapphire/normal/barboach.png,,
+Whiscash,340,Water,Ground,468,110,78,73,76,71,60,3,FALSE,Whiscash,https://img.pokemondb.net/sprites/ruby-sapphire/normal/whiscash.png,,
+Corphish,341,Water,,308,43,80,65,50,35,35,3,FALSE,Corphish,https://img.pokemondb.net/sprites/ruby-sapphire/normal/corphish.png,,
+Crawdaunt,342,Water,Dark,468,63,120,85,90,55,55,3,FALSE,Crawdaunt,https://img.pokemondb.net/sprites/ruby-sapphire/normal/crawdaunt.png,,
+Baltoy,343,Ground,Psychic,300,40,40,55,40,70,55,3,FALSE,Baltoy,https://img.pokemondb.net/sprites/ruby-sapphire/normal/baltoy.png,,
+Claydol,344,Ground,Psychic,500,60,70,105,70,120,75,3,FALSE,Claydol,https://img.pokemondb.net/sprites/ruby-sapphire/normal/claydol.png,,
+Lileep,345,Rock,Grass,355,66,41,77,61,87,23,3,FALSE,Lileep,https://img.pokemondb.net/sprites/ruby-sapphire/normal/lileep.png,,
+Cradily,346,Rock,Grass,495,86,81,97,81,107,43,3,FALSE,Cradily,https://img.pokemondb.net/sprites/ruby-sapphire/normal/cradily.png,,
+Anorith,347,Rock,Bug,355,45,95,50,40,50,75,3,FALSE,Anorith,https://img.pokemondb.net/sprites/ruby-sapphire/normal/anorith.png,,
+Armaldo,348,Rock,Bug,495,75,125,100,70,80,45,3,FALSE,Armaldo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/armaldo.png,,
+Feebas,349,Water,,200,20,15,20,10,55,80,3,FALSE,Feebas,https://img.pokemondb.net/sprites/ruby-sapphire/normal/feebas.png,,
+Milotic,350,Water,,540,95,60,79,100,125,81,3,FALSE,Milotic,https://img.pokemondb.net/sprites/ruby-sapphire/normal/milotic.png,,
+Castform,351,Normal,,420,70,70,70,70,70,70,3,FALSE,Castform,https://img.pokemondb.net/sprites/ruby-sapphire/normal/castform.png,,
+Kecleon,352,Normal,,440,60,90,70,60,120,40,3,FALSE,Kecleon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kecleon.png,,
+Shuppet,353,Ghost,,295,44,75,35,63,33,45,3,FALSE,Shuppet,https://img.pokemondb.net/sprites/ruby-sapphire/normal/shuppet.png,,
+Banette,354,Ghost,,455,64,115,65,83,63,65,3,FALSE,Banette,https://img.pokemondb.net/sprites/ruby-sapphire/normal/banette.png,,
+Duskull,355,Ghost,,295,20,40,90,30,90,25,3,FALSE,Duskull,https://img.pokemondb.net/sprites/ruby-sapphire/normal/duskull.png,,
+Dusclops,356,Ghost,,455,40,70,130,60,130,25,3,FALSE,Dusclops,https://img.pokemondb.net/sprites/ruby-sapphire/normal/dusclops.png,,
+Tropius,357,Grass,Flying,460,99,68,83,72,87,51,3,FALSE,Tropius,https://img.pokemondb.net/sprites/ruby-sapphire/normal/tropius.png,,
+Chimecho,358,Psychic,,425,65,50,70,95,80,65,3,FALSE,Chimecho,https://img.pokemondb.net/sprites/ruby-sapphire/normal/chimecho.png,,
+Absol,359,Dark,,465,65,130,60,75,60,75,3,FALSE,Absol,https://img.pokemondb.net/sprites/ruby-sapphire/normal/absol.png,,
+Wynaut,360,Psychic,,260,95,23,48,23,48,23,3,FALSE,Wynaut,https://img.pokemondb.net/sprites/ruby-sapphire/normal/wynaut.png,,
+Snorunt,361,Ice,,300,50,50,50,50,50,50,3,FALSE,Snorunt,https://img.pokemondb.net/sprites/ruby-sapphire/normal/snorunt.png,,
+Glalie,362,Ice,,480,80,80,80,80,80,80,3,FALSE,Glalie,https://img.pokemondb.net/sprites/ruby-sapphire/normal/glalie.png,,
+Spheal,363,Ice,Water,290,70,40,50,55,50,25,3,FALSE,Spheal,https://img.pokemondb.net/sprites/ruby-sapphire/normal/spheal.png,,
+Sealeo,364,Ice,Water,410,90,60,70,75,70,45,3,FALSE,Sealeo,https://img.pokemondb.net/sprites/ruby-sapphire/normal/sealeo.png,,
+Walrein,365,Ice,Water,530,110,80,90,95,90,65,3,FALSE,Walrein,https://img.pokemondb.net/sprites/ruby-sapphire/normal/walrein.png,,
+Clamperl,366,Water,,345,35,64,85,74,55,32,3,FALSE,Clamperl,https://img.pokemondb.net/sprites/ruby-sapphire/normal/clamperl.png,,
+Huntail,367,Water,,485,55,104,105,94,75,52,3,FALSE,Huntail,https://img.pokemondb.net/sprites/ruby-sapphire/normal/humtail.png,,
+Gorebyss,368,Water,,485,55,84,105,114,75,52,3,FALSE,Gorebyss,https://img.pokemondb.net/sprites/ruby-sapphire/normal/gorebyss.png,,
+Relicanth,369,Water,Rock,485,100,90,130,45,65,55,3,FALSE,Relicanth,https://img.pokemondb.net/sprites/ruby-sapphire/normal/relicanth.png,,
+Luvdisc,370,Water,,330,43,30,55,40,65,97,3,FALSE,Luvdisc,https://img.pokemondb.net/sprites/ruby-sapphire/normal/luvdisc.png,,
+Bagon,371,Dragon,,300,45,75,60,40,30,50,3,FALSE,Bagon,https://img.pokemondb.net/sprites/diamond-pearl/normal/bagon.png,,
+Shelgon,372,Dragon,,420,65,95,100,60,50,50,3,FALSE,Shelgon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/shelgon.png,,
+Salamence,373,Dragon,Flying,600,95,135,80,110,80,100,3,FALSE,Salamence,https://img.pokemondb.net/sprites/ruby-sapphire/normal/salamence.png,,
+Beldum,374,Steel,Psychic,300,40,55,80,35,60,30,3,FALSE,Beldum,https://img.pokemondb.net/sprites/ruby-sapphire/normal/beldum.png,,
+Metang,375,Steel,Psychic,420,60,75,100,55,80,50,3,FALSE,Metang,https://img.pokemondb.net/sprites/ruby-sapphire/normal/metang.png,,
+Metagross,376,Steel,Psychic,600,80,135,130,95,90,70,3,FALSE,Metagross,https://img.pokemondb.net/sprites/ruby-sapphire/normal/metagross.png,,
+Regirock,377,Rock,,580,80,100,200,50,100,50,3,TRUE,Regirock,https://img.pokemondb.net/sprites/ruby-sapphire/normal/regirock.png,,
+Regice,378,Ice,,580,80,50,100,100,200,50,3,TRUE,Regice,https://img.pokemondb.net/sprites/ruby-sapphire/normal/regice.png,,
+Registeel,379,Steel,,580,80,75,150,75,150,50,3,TRUE,Registeel,https://img.pokemondb.net/sprites/ruby-sapphire/normal/registeel.png,,
+Latias,380,Dragon,Psychic,600,80,80,90,110,130,110,3,TRUE,Latias,https://img.pokemondb.net/sprites/ruby-sapphire/normal/latias.png,,
+Latios,381,Dragon,Psychic,600,80,90,80,130,110,110,3,TRUE,Latios,https://img.pokemondb.net/sprites/ruby-sapphire/normal/latios.png,,
+Kyogre,382,Water,,670,100,100,90,150,140,90,3,TRUE,Kyogre,https://img.pokemondb.net/sprites/ruby-sapphire/normal/kyogre.png,,
+Groudon,383,Ground,,670,100,150,140,100,90,90,3,TRUE,Groudon,https://img.pokemondb.net/sprites/ruby-sapphire/normal/groudon.png,,
+Rayquaza,384,Dragon,Flying,680,105,150,90,150,90,95,3,TRUE,Rayquaza,https://img.pokemondb.net/sprites/ruby-sapphire/normal/rayquaza.png,,
+Jirachi,385,Steel,Psychic,600,100,100,100,100,100,100,3,TRUE,Jirachi,https://img.pokemondb.net/sprites/ruby-sapphire/normal/jirachi.png,,
+Deoxys,386,Psychic,,600,50,150,50,150,50,150,3,TRUE,Deoxys,https://img.pokemondb.net/sprites/ruby-sapphire/normal/deoxys-normal.png,,
